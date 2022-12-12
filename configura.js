@@ -6,17 +6,17 @@ global.region = 'Brasil'
 //=================================================//
 //—————「 Configure aqui  」—————//
 
-global.dono = ['559784388524']
-global.premium = ['559784388524']
+global.dono = ['62882006212045']
+global.premium = ['62882006212045']
 global.prefixo = ['.']
 global.reagir1 = '🔥'
 global.reagir2 = '🤬'
 global.reagir3 = '🤣'
 global.reagir4 = '📌'
 global.packname = '🔥νєησм'
-global.footer = 'Venom Mods' 
-global.author = 'мσ∂ѕ🔥'
-global.QrNome = './VenomPrivat'
+global.footer = 'Khaa Mods' 
+global.author = 'KhaTheDarkness'
+global.QrNome = './session'
 
 global.resposta = {
   espere: '*Carregando... tenha Paciência *_', 
